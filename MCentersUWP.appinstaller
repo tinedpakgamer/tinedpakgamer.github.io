@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://tinedpakgamer.github.io/MCentersUWP.appinstaller"
-	Version="1.0.16.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.17.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="a55bf4b5-0698-40b3-8a9a-d3aec325206d"
-		Version="1.0.16.0"
+		Version="1.0.17.0"
 		Publisher="CN=opMcN"
-		Uri="https://tinedpakgamer.github.io/MCentersUWP_1.0.16.0_Debug_Test/MCentersUWP_1.0.16.0_x64_Debug.msixbundle" />
+		Uri="https://tinedpakgamer.github.io/MCentersUWP_1.0.17.0_Debug_Test/MCentersUWP_1.0.17.0_x64_Debug.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
