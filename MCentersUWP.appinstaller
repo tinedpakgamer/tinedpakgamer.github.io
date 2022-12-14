@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://tinedpakgamer.github.io/MCentersUWP.appinstaller"
-	Version="1.0.20.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.21.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="a55bf4b5-0698-40b3-8a9a-d3aec325206d"
-		Version="1.0.20.0"
+		Version="1.0.21.0"
 		Publisher="CN=opMcN"
-		Uri="https://tinedpakgamer.github.io/MCentersUWP_1.0.20.0_Test/MCentersUWP_1.0.20.0_x64.msixbundle" />
+		Uri="https://tinedpakgamer.github.io/MCentersUWP_1.0.21.0_Test/MCentersUWP_1.0.21.0_x64.msixbundle" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.VCLibs.140.00.UWPDesktop"
