@@ -1,11 +1,11 @@
 {
   "entryAssembly": "Website",
   "resources": {
-    "hash": "sha256-UWWGe1X34LummSy4fPx6NwYAMvAP5Y+XYwsLdNS6g2s=",
+    "hash": "sha256-/VgTZNkmDr3+hWdRPV/9YX8gRj4GFuubdhwRa4S9woI=",
     "runtime": {
-      "dotnet.7.0.18.m7jl0wv4ux.js": "sha256-lsqy0PQ8nf1/0sSlLGe3Kfwi8V0Q1QzVy5+AqtJ3cfU=",
+      "dotnet.7.0.18.v1n9thtexr.js": "sha256-EoXwBl5K+b+ej4vdrT39kf5ZVdIH9SzU5c8lFmuKROQ=",
       "dotnet.timezones.blat": "sha256-aPcvvHoFVwCzeRxTOvMTcrI2l2HKJO0sjSN7IF10LUQ=",
-      "dotnet.wasm": "sha256-OGxk7jtpWsqGm1ExW4zusvMbpaiGNDOEBYX2Yac601c=",
+      "dotnet.wasm": "sha256-VdDP6BAfd7ByyvzhFGk645GX2HEnQF/iWMGGTLkcn1w=",
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
       "icudt_EFIGS.dat": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
@@ -41,7 +41,7 @@
     },
     "runtimeAssets": {
       "dotnet.wasm": {
-        "hash": "sha256-OGxk7jtpWsqGm1ExW4zusvMbpaiGNDOEBYX2Yac601c=",
+        "hash": "sha256-VdDP6BAfd7ByyvzhFGk645GX2HEnQF/iWMGGTLkcn1w=",
         "behavior": "dotnetwasm"
       }
     }
