@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://www.mcenters.net/</loc>
-        <lastmod>2024-05-19T20:59:42+05:00</lastmod>
-    </url>
+        <lastmod>2024-05-19T21:56:36+05:00</lastmod>
+    </url>    
     <url>
-        <loc>https://www.mcenters.net/About.html</loc>
+        <loc>https://www.mcenters.net/About/</loc>
         <lastmod>2024-05-14T04:39:27+05:00</lastmod>
     </url>
     <url>
-        <loc>https://www.mcenters.net/Contact.html</loc>
+        <loc>https://www.mcenters.net/Contact/</loc>
         <lastmod>2024-05-14T04:39:27+05:00</lastmod>
     </url>
     <url>
-        <loc>https://www.mcenters.net/Downloads/M-Centers-8th-Edition.html</loc>
-        <lastmod>2024-05-19T19:49:31+05:00</lastmod>
+        <loc>https://www.mcenters.net/Downloads/M-Centers-8th-Edition/</loc>
+        <lastmod>2024-05-19T22:00:22+05:00</lastmod>
     </url>
     <url>
-        <loc>https://www.mcenters.net/Downloads/M-Centers-5.html</loc>
-        <lastmod>2024-05-19T20:28:11+05:00</lastmod>
+        <loc>https://www.mcenters.net/Downloads/M-Centers-5/</loc>
+        <lastmod>2024-05-19T21:57:22+05:00</lastmod>
     </url>
 </urlset>

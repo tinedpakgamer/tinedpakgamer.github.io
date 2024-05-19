@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("../images/vccvv-min.jpg");
+  background-image: url("../../images/vccvv-min.jpg");
   background-position: 50% 50%;
 }
 
@@ -87,7 +87,7 @@
     margin-right: 0;
   }
 } .u-section-2 {
-  min-height: 631px;
+  min-height: 609px;
 }
 
 .u-section-2 .u-image-1 {
@@ -99,7 +99,7 @@
 
 .u-section-2 .u-group-1 {
   width: 977px;
-  min-height: 469px;
+  min-height: 418px;
   margin: -214px auto 60px;
 }
 
@@ -125,32 +125,13 @@
   text-transform: uppercase;
   font-size: 1.125rem;
   font-weight: 400;
-  margin: 31px auto 0 31px;
-  padding: 17px 50px 17px 49px;
-}
-
-.u-section-2 .u-btn-2 {
-  background-image: none;
-  border-style: none;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  font-size: 1.125rem;
-  font-weight: 400;
-  margin: -63px 31px 0 auto;
+  margin: 28px auto 0;
   padding: 17px 50px 17px 49px;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-group-1 {
     width: 940px;
-  }
-
-  .u-section-2 .u-btn-1 {
-    margin-left: 0;
-  }
-
-  .u-section-2 .u-btn-2 {
-    margin-right: 0;
   }
 }
 
@@ -259,12 +240,12 @@
   text-transform: none;
   font-weight: 700;
   font-size: 1.875rem;
-  margin: 43px auto 0;
+  margin: 42px auto 0;
 }
 
 .u-section-3 .u-text-2 {
   font-style: normal;
-  margin: 29px 0 0;
+  margin: 30px 0 0;
 }
 
 .u-section-3 .u-list-item-2 {
@@ -293,12 +274,12 @@
   font-size: 1.875rem;
   text-transform: none;
   font-weight: 700;
-  margin: 43px auto 0;
+  margin: 42px auto 0;
 }
 
 .u-section-3 .u-text-4 {
   font-style: normal;
-  margin: 29px 0 0;
+  margin: 30px 0 0;
 }
 
 .u-section-3 .u-list-item-3 {
@@ -327,12 +308,12 @@
   font-size: 1.875rem;
   text-transform: none;
   font-weight: 700;
-  margin: 43px auto 0;
+  margin: 42px auto 0;
 }
 
 .u-section-3 .u-text-6 {
   font-style: normal;
-  margin: 29px 0 0;
+  margin: 30px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -410,7 +391,7 @@
   width: 30px;
   height: 452px;
   background-image: none;
-  margin: -470px auto 0 0;
+  margin: -910px auto 0 0;
 }
 
 .u-section-4 .u-shape-2 {
@@ -418,6 +399,22 @@
   height: 452px;
   background-image: none;
   margin: -452px 0 0 auto;
+}
+
+.u-section-4 .u-btn-1 {
+  border-style: solid;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 1.125rem;
+  align-self: center;
+  background-image: none;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 519px auto 0;
+  padding: 14px 36px 14px 35px;
 }
 
 @media (max-width: 1199px) {

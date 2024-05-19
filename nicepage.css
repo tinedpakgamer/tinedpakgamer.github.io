@@ -42466,17 +42466,33 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-text-1 {
-  width: 151px;
-  margin: 10px auto;
+  margin: 10px 466px 10px 494px;
 }
 @media (max-width: 1199px) {
   .u-footer .u-text-1 {
+    margin-left: 394px;
+    margin-right: 366px;
     width: 151px;
   }
 }
-
-
-
+@media (max-width: 991px) {
+  .u-footer .u-text-1 {
+    margin-left: 284px;
+    margin-right: 256px;
+  }
+}
+@media (max-width: 767px) {
+  .u-footer .u-text-1 {
+    margin-left: 194px;
+    margin-right: 166px;
+  }
+}
+@media (max-width: 575px) {
+  .u-footer .u-text-1 {
+    margin-left: 94px;
+    margin-right: 66px;
+  }
+}
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
