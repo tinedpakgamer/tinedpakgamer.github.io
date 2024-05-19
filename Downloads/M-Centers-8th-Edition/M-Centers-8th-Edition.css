@@ -4,7 +4,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 837px;
+  min-height: 949px;
 }
 
 .u-section-1 .u-text-1 {
@@ -17,7 +17,7 @@
   font-size: 3.75rem;
   font-family: Montserrat, sans-serif;
   font-weight: 400;
-  margin: 272px auto 0;
+  margin: 384px auto 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -36,7 +36,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 690px;
+    min-height: 783px;
   }
 
   .u-section-1 .u-text-1 {
