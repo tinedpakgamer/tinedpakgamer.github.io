@@ -1,0 +1,34 @@
+ .u-section-1 {
+  min-height: 1072px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 316px;
+  margin-top: 0;
+  margin-bottom: 0;
+  object-position: 50% 100%;
+}
+
+.u-section-1 .u-text-1 {
+  width: 886px;
+  margin: -10px auto 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    width: 540px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+}

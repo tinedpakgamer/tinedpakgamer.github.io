@@ -1,3 +1,33 @@
-.u-section-1 .u-sheet-1 {
-  min-height: 400px;
+ .u-section-1 {
+  min-height: 731px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 316px;
+  margin-top: 0;
+  margin-bottom: 0;
+  object-position: 50% 100%;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 108px;
+  min-height: 16px;
+  width: 344px;
+  min-width: 68px;
+  margin: 133px auto 60px;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(17, 17, 17) !important;
+  height: 100%;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 108px;
+  color: rgb(34, 153, 248) !important;
 }
