@@ -4,7 +4,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 949px;
+  min-height: 837px;
 }
 
 .u-section-1 .u-text-1 {
@@ -17,7 +17,7 @@
   font-size: 3.75rem;
   font-family: Montserrat, sans-serif;
   font-weight: 400;
-  margin: 384px auto 0;
+  margin: 272px auto 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -31,12 +31,12 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
   width: 568px;
-  margin: 20px auto 60px;
+  margin: 20px auto -46px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 783px;
+    min-height: 690px;
   }
 
   .u-section-1 .u-text-1 {
