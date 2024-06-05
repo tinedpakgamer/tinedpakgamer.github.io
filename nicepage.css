@@ -22452,6 +22452,9 @@ section.u-dialog-block {
 section.u-dialog-block:not(.u-dialog-open) {
   display: none;
 }
+section.u-dialog-block.u-dialog-open:before {
+  position: absolute;
+}
 .u-countdown {
   display: table;
 }
@@ -22558,6 +22561,9 @@ section.u-dialog-block:not(.u-dialog-open) {
   right: 0;
   left: 0;
   z-index: 3;
+}
+.u-section-row.u-sticky-fixed.u-sticky-with-opened-mobile-menu {
+  z-index: 4;
 }
 .u-box-shadow.u-section-row:nth-child(10) {
   z-index: 1;
